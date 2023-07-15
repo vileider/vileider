@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bogdan Todorow
 - 👀 I’m interested in web and game development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Next.js and Jenkins
 - 💞️ I’m looking to collaborate on profesional matter
 - 📫 How to reach me LinkIN
 
