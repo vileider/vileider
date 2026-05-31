@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bogdan Todorow
-- 👀 I’m interested in web and game development
-- 🌱 I’m currently working with python
+- 👀 I’m interested in web and game development, Web app, Dev OPS
+- 🌱 I’m currently working with python,C# ,TS
 - 💞️ I’m looking to collaborate on profesional matter
 - 📫 How to reach me LinkIN
 
